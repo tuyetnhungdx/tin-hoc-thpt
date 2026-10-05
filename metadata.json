@@ -1,0 +1,6 @@
+{
+  "name": "Trợ lý Quản trị Học tập – Trần Thị Tuyết Nhung",
+  "description": "Hệ thống quản lý giảng dạy môn Tin học tại THPT Nguyễn Dục - Quản lý lớp học, học sinh, bài học và kết quả học tập.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
